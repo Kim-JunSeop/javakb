@@ -1,5 +1,3 @@
-package com.kb;
-
 import java.util.Scanner;
 
 public class Q3_homework {

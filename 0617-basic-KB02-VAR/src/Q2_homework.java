@@ -1,5 +1,3 @@
-package com.kb;
-
 public class Q2_homework {
 
     public static void main(String[] args) {
