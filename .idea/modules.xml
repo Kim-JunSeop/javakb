@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/03_Operator/03_Operator.iml" filepath="$PROJECT_DIR$/03_Operator/03_Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_ControlStatement/04_ControlStatement.iml" filepath="$PROJECT_DIR$/04_ControlStatement/04_ControlStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_Array/05_Array.iml" filepath="$PROJECT_DIR$/05_Array/05_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0617-basic-KB02-VAR/0617-basic-KB02-VAR.iml" filepath="$PROJECT_DIR$/0617-basic-KB02-VAR/0617-basic-KB02-VAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Library/10_Library.iml" filepath="$PROJECT_DIR$/10_Library/10_Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/KB02_Array_hw/KB02_Array_hw.iml" filepath="$PROJECT_DIR$/KB02_Array_hw/KB02_Array_hw.iml" />
       <module fileurl="file://$PROJECT_DIR$/javakb5.iml" filepath="$PROJECT_DIR$/javakb5.iml" />
     </modules>
