@@ -55,7 +55,6 @@ public class ListBasic3 {
 
         // 1) 객체에서 Comparable을 구현해서 정렬하는 방법 -> 추천 안함!!
         // - Comparable을 객체에 직접 구현하고, 1개 기준으로만 정렬시킬수 있다.
-        Collections.sort(list);
         list.forEach(System.out::println);
         System.out.println("---------------------------------------------------------");
 
