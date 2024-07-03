@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/0626-basic-KB02-INHERIT/0626-basic-KB02-INHERIT.iml" filepath="$PROJECT_DIR$/0626-basic-KB02-INHERIT/0626-basic-KB02-INHERIT.iml" />
       <module fileurl="file://$PROJECT_DIR$/0703-basic-KB02-DesignPattern/0703-basic-KB02-DesignPattern.iml" filepath="$PROJECT_DIR$/0703-basic-KB02-DesignPattern/0703-basic-KB02-DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_Library/10_Library.iml" filepath="$PROJECT_DIR$/10_Library/10_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_GenericCollections/11_GenericCollections.iml" filepath="$PROJECT_DIR$/11_GenericCollections/11_GenericCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/KB02_Array_hw/KB02_Array_hw.iml" filepath="$PROJECT_DIR$/KB02_Array_hw/KB02_Array_hw.iml" />
       <module fileurl="file://$PROJECT_DIR$/javakb5.iml" filepath="$PROJECT_DIR$/javakb5.iml" />
     </modules>
