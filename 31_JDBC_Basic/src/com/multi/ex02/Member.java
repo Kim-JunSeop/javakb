@@ -3,8 +3,10 @@ package com.multi.ex02;
 import java.sql.Date;
 
 public class Member {
+
     //VO : Table의 컬럼 값을 멤버 변수로 가진 객체
 //     Table과 Mapping하여 설계할때는 가급적 Table과 네이밍을 일치하는 것이 일반적인데,
+
 //     컬럼명이 길 경우 Java 스타일로 변경하고 다른 방법으로 Mapping이 필요하다.
 //     단, 대소문자는 구별되지 않음으로 무관함.
     private int mno; //     INT PRIMARY KEY auto_increment,

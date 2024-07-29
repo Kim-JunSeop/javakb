@@ -14,12 +14,15 @@ public class Q1_JDBC {
     public static Statement stmt = null;
     // select문의 결과 값을 받는 객체
     public static ResultSet rs = null;
-
     public static String driverClass = "com.mysql.cj.jdbc.Driver";
+
+   // public static String driverClass = "com.mysql.cj.jdbc.Driver";
     //public static String url = "jdbc:mysql://localhost:3306/jdbc"; // localhost 자기자신
-    public static String url = "jdbc:mysql://127.0.0.1:3306/project"; // 127.0.0.1 = loofback IP, 3306 = 포트주소
+     public static String url = "jdbc:mysql://127.0.0.1:3306/project"; // 127.0.0.1 = loofback IP, 3306 = 포트주소
     public static String user = "root";
     public static String password = "root";
+
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -49,8 +52,6 @@ public class Q1_JDBC {
         } catch (Exception e) {
             e.printStackTrace();
 
-        } finally {
-            System.out.println("끝");
         }
     }
 
